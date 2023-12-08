@@ -1,5 +1,8 @@
 # 類神經網路 Neural Networks 作業一
 
+[![hackmd-github-sync-badge](https://hackmd.io/ihWHe1zdTdiKel9bgaXhCQ/badge)](https://hackmd.io/ihWHe1zdTdiKel9bgaXhCQ)
+
+
 
 :::success
 <font color="#f00">***10/16更新項目**</font>>
